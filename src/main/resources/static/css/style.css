@@ -1,0 +1,19 @@
+@charset "UTF-8";
+.h350{
+	height:350px;
+}
+.cardsize{
+	width:65%;
+	height:140px;
+}
+.card-sh {
+	box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+}
+
+.cat-div {
+	box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+}
+
+.error {
+	color: red;
+}
